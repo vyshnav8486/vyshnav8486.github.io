@@ -1,0 +1,113 @@
+
+
+
+
+.doc{
+    
+    background-color: steelblue;
+    font-family:sans-serif;
+    font-size: small;
+    
+    width:10%;
+
+}
+
+.doc a i{
+    position: absolute;
+    top: 380px;
+    left: 400px;
+    padding: 5px;
+    background-color:lightgreen;
+    
+}
+.logo{
+    position:absolute;
+ top: 150px;
+ right:310px;  
+ margin-right:250px ;
+ margin-left:3;
+}
+
+
+.text  p{
+    position:absolute;
+    top:50px;
+    left: 10px;
+    margin-left: 1;
+    margin-right: 5;
+    padding: 10px;
+    width: 84%;
+    background-color:whitesmoke;
+    font-size: 15px;
+    font-family:'Lucida Sans';
+    color:black;
+}
+.text h1{
+    position:absolute;
+    top:200px;
+    left:60px;
+    margin-left: 300;
+    margin-right: 500;
+    padding: 10px;
+    background-color:white;
+    color:crimson;
+
+}
+.mainpage{
+    background-color:white;
+    margin-left:500;
+
+    margin-right:10;
+    
+
+    
+       
+}
+.mainpage a{
+    color:black;
+justify-content: space-between;
+
+}
+.mainpage a:hover{
+    background-color:darkseagreen;
+}
+
+.img {
+ position:absolute;
+ top: 0px;
+ left: 0px;  
+ margin-left: 50px; 
+}
+
+
+
+
+
+.follow{
+    background-color:white;
+    padding: 20px;
+    margin-right: 320px;
+    margin-left: 320px;
+    width: 50%;
+
+
+
+}
+nav ul li{
+    display: inline-flex;
+    align-items:center;
+    justify-content:space-between;
+    margin: 10px;
+    height: 20px;
+    
+}
+nav ul li a{
+    justify-content:space-between; 
+    margin-right: 30px;
+    margin-left: 30px;
+
+
+}
+.follow h1{
+    color:black;
+}
